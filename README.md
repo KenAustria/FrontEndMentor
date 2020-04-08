@@ -8,5 +8,6 @@
 
 🔗 Intro Component With Signup Form. [Source](https://github.com/KenAustria/IntroComponentWithSignupForm)
 
-<img src='images/intro-component-with-signup-form.png'>
+<img src='images/intro-component-with-signup-form.png'>  
+
 ---
