@@ -10,4 +10,8 @@
 
 <img src='images/intro-component-with-signup-form.png'>  
 
+🔗 Huddle Landing Page With Single Introductory. [Source](https://github.com/KenAustria/HuddleLandingPageWithSingleIntroductory)
+
+<img src='images/huddle-landing-page-with-single-introductory.png'>  
+
 ---
