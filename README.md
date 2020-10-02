@@ -14,4 +14,11 @@
 
 <img src='images/huddle-landing-page-with-single-introductory.jpg'>  
 
+🔗 Ping Single Column Coming Soon Page. [Source](https://github.com/KenAustria/PingSingleColumnComingSoonPage)
+
+<img src='images/ping-coming-soon-with-single-intro.jpg'>  
+
+🔗 Four Card Feature Section. [Source](https://github.com/KenAustria/FourCardFeatureSection)
+
+<img src='images/four-card-feature-section.jpg'>  
 ---
