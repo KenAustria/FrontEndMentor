@@ -21,4 +21,8 @@
 🔗 Four Card Feature Section. [Source](https://github.com/KenAustria/FourCardFeatureSection)
 
 <img src='images/four-card-feature-section.jpg'>  
+
+🔗 Base Apparel Coming Soon. [Source](https://github.com/KenAustria/BaseApparelComingSoon)
+
+<img src='images/base-apparel-coming-soon.jpg'>  
 ---
